@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Esquina: Conversas sobre Cidades e Arquitetura]]></title>
         <description><![CDATA[Esquina: Conversas sobre Cidades e Arquitetura]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/esquina/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 19:04:50 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 19:18:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/esquina/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Uma homenagem aos prédios de São Paulo</p>]]></description>
+            <link>https://thegrid.ai/esquina/25c4b17a-439e-41b6-aa65-8ef79904e85e/index.html</link>
+            <guid isPermaLink="false">25c4b17a-439e-41b6-aa65-8ef79904e85e</guid>
+            <pubDate>Wed, 13 Jan 2016 19:18:16 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6e55e8b-346f-46e4-9200-0ca3d92ee317.jpg">]]></description>
-            <link>undefinede8bca401-31e9-42fe-862d-a2b383a2a5bc/index.html</link>
+            <link>https://thegrid.ai/esquina/e8bca401-31e9-42fe-862d-a2b383a2a5bc/index.html</link>
             <guid isPermaLink="false">e8bca401-31e9-42fe-862d-a2b383a2a5bc</guid>
             <pubDate>Wed, 13 Jan 2016 19:04:42 GMT</pubDate>
         </item>
